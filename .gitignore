@@ -24,3 +24,5 @@ dist/
 # make start artifacts
 .myphotos.pid
 myphotos.log
+config.bat
+node_modules
